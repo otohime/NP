@@ -1,6 +1,6 @@
 ﻿namespace NP
 {
-    partial class Form1
+    partial class Authentication
     {
         /// <summary>
         /// Required designer variable.
